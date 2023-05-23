@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a software Developer
-- 📫 This is how you can reach (me)[https://www.linkedin.com/in/leopoldo-lira-b70b52116/]
-- 
+- 📫 This is how you can reach [me](https://www.linkedin.com/in/leopoldo-lira-b70b52116/)

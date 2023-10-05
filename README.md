@@ -10,5 +10,5 @@
 
 ### Skills:
 
-| ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&color=white) |
-|:---|
+| ![Static Badge](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&color=white) |
+|---|

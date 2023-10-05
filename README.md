@@ -15,5 +15,8 @@
 
 ### Stats:
 
-| ![LeopoldoLira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeopoldoLira&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) ![LeopoldoLira's Stats](https://github-readme-stats.vercel.app/api?username=LeopoldoLira&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) |
+| ![LeopoldoLira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeopoldoLira&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) |
+| --- |
+
+| ![LeopoldoLira's Stats](https://github-readme-stats.vercel.app/api?username=LeopoldoLira&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) |
 | --- |

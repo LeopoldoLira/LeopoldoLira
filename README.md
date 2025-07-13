@@ -39,4 +39,5 @@ When I'm not coding, you can find me learning something new 📚 or exploring th
 Let’s build something awesome together! 🚀
 
 ## Contact
-![Static Badge](https://img.shields.io/badge/Email%20-%20lira.leopoldo97%40gmail.com%20-%20purple?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Alira.leopoldo97%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/Email%20-%20lira.leopoldo97%40gmail.com%20-%20purple?logo=gmail&logoColor=white)](mailto:lira.leopoldo97@gmail.com)
+
